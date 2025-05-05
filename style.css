@@ -1,0 +1,33 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+    background-color: #cbe1f7;
+}
+
+table{
+    background-color: white;
+}
+
+.ex{
+    cursor: pointer;
+    color: #030b11;
+    transition: color 0.3s ease, transform 0.3s ease;
+    margin-inline-start: 10px;
+    text-shadow: 1px 2px 2px rgb(160, 145, 145);
+    text-align:center;
+}
+
+h2{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(194, 243, 243);
+}
+
+.ex2{
+    font-size: 18px;
+    
+}
+
+td{
+    margin-left: 40px;
+}
